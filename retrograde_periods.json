@@ -1,111 +1,2012 @@
 {
-  "source": "Bundled bot dataset",
+  "source": "PyEphem + station-anchored phase model (generated 2026-11-18)",
   "timezone": "Europe/Moscow",
   "periods": [
     {
       "start": "2025-03-15",
       "end": "2025-04-07",
-      "label": "Spring 2025",
-      "calculated": true
+      "label": "Winter-Spring 2025",
+      "calculated": true,
+      "retroStartUtc": "2025-03-15T06:46Z",
+      "retroEndUtc": "2025-04-07T11:08Z",
+      "phases": [
+        {
+          "start": "2025-03-13",
+          "end": "2025-03-14",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-03-14",
+          "end": "2025-03-16",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-03-16",
+          "end": "2025-03-17",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-03-17",
+          "end": "2025-04-04",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-04-04",
+          "end": "2025-04-06",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-04-06",
+          "end": "2025-04-09",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-04-09",
+          "end": "2025-04-11",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
     },
     {
       "start": "2025-07-18",
       "end": "2025-08-11",
       "label": "Summer 2025",
-      "calculated": true
+      "calculated": true,
+      "retroStartUtc": "2025-07-18T04:45Z",
+      "retroEndUtc": "2025-08-11T07:29Z",
+      "phases": [
+        {
+          "start": "2025-07-16",
+          "end": "2025-07-17",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-07-17",
+          "end": "2025-07-19",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-07-19",
+          "end": "2025-07-20",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-07-20",
+          "end": "2025-08-08",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-08-08",
+          "end": "2025-08-10",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-08-10",
+          "end": "2025-08-13",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-08-13",
+          "end": "2025-08-15",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
     },
     {
       "start": "2025-11-09",
       "end": "2025-11-29",
       "label": "Autumn 2025",
-      "calculated": true
+      "calculated": true,
+      "retroStartUtc": "2025-11-09T19:01Z",
+      "retroEndUtc": "2025-11-29T17:38Z",
+      "phases": [
+        {
+          "start": "2025-11-07",
+          "end": "2025-11-08",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-11-08",
+          "end": "2025-11-10",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-11-10",
+          "end": "2025-11-11",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-11-11",
+          "end": "2025-11-26",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-11-26",
+          "end": "2025-11-28",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-11-28",
+          "end": "2025-12-01",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2025-12-03",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
     },
     {
       "start": "2026-02-26",
       "end": "2026-03-20",
       "label": "Winter-Spring 2026",
       "calculated": false,
+      "retroStartUtc": "2026-02-26T06:48Z",
+      "retroEndUtc": "2026-03-20T19:33Z",
       "phases": [
         {
           "start": "2026-02-24",
           "end": "2026-02-25",
           "phaseNumber": 1,
           "damageLevel": "MEDIUM",
-          "note": ""
+          "note": "OcculteProfi 23.02.2026"
         },
         {
           "start": "2026-02-25",
           "end": "2026-02-27",
           "phaseNumber": 2,
           "damageLevel": "STRONG",
-          "note": ""
+          "note": "OcculteProfi 23.02.2026"
         },
         {
           "start": "2026-02-27",
           "end": "2026-02-28",
           "phaseNumber": 3,
           "damageLevel": "MEDIUM",
-          "note": ""
+          "note": "OcculteProfi 23.02.2026"
         },
         {
           "start": "2026-02-28",
           "end": "2026-03-17",
           "phaseNumber": 4,
           "damageLevel": "WEAK",
-          "note": ""
+          "note": "OcculteProfi 23.02.2026"
         },
         {
           "start": "2026-03-17",
           "end": "2026-03-19",
           "phaseNumber": 5,
           "damageLevel": "MEDIUM",
-          "note": ""
+          "note": "OcculteProfi 23.02.2026"
         },
         {
           "start": "2026-03-19",
           "end": "2026-03-22",
           "phaseNumber": 6,
           "damageLevel": "STRONG",
-          "note": ""
+          "note": "OcculteProfi 23.02.2026"
         },
         {
           "start": "2026-03-22",
           "end": "2026-03-24",
           "phaseNumber": 7,
           "damageLevel": "MEDIUM",
-          "note": ""
+          "note": "OcculteProfi 23.02.2026"
         }
       ]
     },
     {
       "start": "2026-06-29",
-      "end": "2026-07-23",
+      "end": "2026-07-24",
       "label": "Summer 2026",
-      "calculated": true
+      "calculated": true,
+      "retroStartUtc": "2026-06-29T17:35Z",
+      "retroEndUtc": "2026-07-23T22:58Z",
+      "phases": [
+        {
+          "start": "2026-06-27",
+          "end": "2026-06-28",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2026-06-28",
+          "end": "2026-06-30",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2026-06-30",
+          "end": "2026-07-01",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2026-07-01",
+          "end": "2026-07-21",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2026-07-21",
+          "end": "2026-07-23",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2026-07-23",
+          "end": "2026-07-26",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2026-07-26",
+          "end": "2026-07-28",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
     },
     {
       "start": "2026-10-24",
       "end": "2026-11-13",
       "label": "Autumn 2026",
-      "calculated": true
+      "calculated": true,
+      "retroStartUtc": "2026-10-24T07:13Z",
+      "retroEndUtc": "2026-11-13T15:54Z",
+      "phases": [
+        {
+          "start": "2026-10-22",
+          "end": "2026-10-23",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2026-10-23",
+          "end": "2026-10-25",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2026-10-25",
+          "end": "2026-10-26",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2026-10-26",
+          "end": "2026-11-10",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-12",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-15",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2026-11-15",
+          "end": "2026-11-17",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
     },
     {
       "start": "2027-02-09",
       "end": "2027-03-03",
       "label": "Winter-Spring 2027",
-      "calculated": true
+      "calculated": true,
+      "retroStartUtc": "2027-02-09T17:36Z",
+      "retroEndUtc": "2027-03-03T12:32Z",
+      "phases": [
+        {
+          "start": "2027-02-07",
+          "end": "2027-02-08",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-02-08",
+          "end": "2027-02-10",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-02-10",
+          "end": "2027-02-11",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-02-11",
+          "end": "2027-02-28",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-02-28",
+          "end": "2027-03-02",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-03-02",
+          "end": "2027-03-05",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-03-05",
+          "end": "2027-03-07",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
     },
     {
-      "start": "2027-06-11",
+      "start": "2027-06-10",
       "end": "2027-07-04",
       "label": "Summer 2027",
-      "calculated": true
+      "calculated": true,
+      "retroStartUtc": "2027-06-10T18:16Z",
+      "retroEndUtc": "2027-07-04T19:40Z",
+      "phases": [
+        {
+          "start": "2027-06-08",
+          "end": "2027-06-09",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-06-09",
+          "end": "2027-06-11",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-06-11",
+          "end": "2027-06-12",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-06-12",
+          "end": "2027-07-01",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-07-01",
+          "end": "2027-07-03",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-07-03",
+          "end": "2027-07-06",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-07-06",
+          "end": "2027-07-08",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
     },
     {
       "start": "2027-10-07",
       "end": "2027-10-28",
       "label": "Autumn 2027",
-      "calculated": true
+      "calculated": true,
+      "retroStartUtc": "2027-10-07T14:37Z",
+      "retroEndUtc": "2027-10-28T14:10Z",
+      "phases": [
+        {
+          "start": "2027-10-05",
+          "end": "2027-10-06",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-10-06",
+          "end": "2027-10-08",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-10-08",
+          "end": "2027-10-09",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-10-09",
+          "end": "2027-10-25",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-10-25",
+          "end": "2027-10-27",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-10-27",
+          "end": "2027-10-30",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2027-10-30",
+          "end": "2027-11-01",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2028-01-24",
+      "end": "2028-02-14",
+      "label": "Winter-Spring 2028",
+      "calculated": true,
+      "retroStartUtc": "2028-01-24T11:02Z",
+      "retroEndUtc": "2028-02-14T12:38Z",
+      "phases": [
+        {
+          "start": "2028-01-22",
+          "end": "2028-01-23",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-01-23",
+          "end": "2028-01-25",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-01-25",
+          "end": "2028-01-26",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-01-26",
+          "end": "2028-02-11",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-02-11",
+          "end": "2028-02-13",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-02-13",
+          "end": "2028-02-16",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-02-16",
+          "end": "2028-02-18",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2028-05-21",
+      "end": "2028-06-14",
+      "label": "Summer 2028",
+      "calculated": true,
+      "retroStartUtc": "2028-05-21T08:43Z",
+      "retroEndUtc": "2028-06-14T06:05Z",
+      "phases": [
+        {
+          "start": "2028-05-19",
+          "end": "2028-05-20",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-05-20",
+          "end": "2028-05-22",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-05-22",
+          "end": "2028-05-23",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-05-23",
+          "end": "2028-06-11",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-06-11",
+          "end": "2028-06-13",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-06-13",
+          "end": "2028-06-16",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-06-16",
+          "end": "2028-06-18",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2028-09-19",
+      "end": "2028-10-11",
+      "label": "Autumn 2028",
+      "calculated": true,
+      "retroStartUtc": "2028-09-19T16:34Z",
+      "retroEndUtc": "2028-10-11T10:27Z",
+      "phases": [
+        {
+          "start": "2028-09-17",
+          "end": "2028-09-18",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-09-18",
+          "end": "2028-09-20",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-09-20",
+          "end": "2028-09-21",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-09-21",
+          "end": "2028-10-08",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-10-08",
+          "end": "2028-10-10",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-10-10",
+          "end": "2028-10-13",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2028-10-13",
+          "end": "2028-10-15",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2029-01-07",
+      "end": "2029-01-27",
+      "label": "Winter-Spring 2029",
+      "calculated": true,
+      "retroStartUtc": "2029-01-07T07:56Z",
+      "retroEndUtc": "2029-01-27T18:41Z",
+      "phases": [
+        {
+          "start": "2029-01-05",
+          "end": "2029-01-06",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-01-06",
+          "end": "2029-01-08",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-01-08",
+          "end": "2029-01-09",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-01-09",
+          "end": "2029-01-24",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-01-24",
+          "end": "2029-01-26",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-01-26",
+          "end": "2029-01-29",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-01-29",
+          "end": "2029-01-31",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2029-05-02",
+      "end": "2029-05-25",
+      "label": "Summer 2029",
+      "calculated": true,
+      "retroStartUtc": "2029-05-01T23:05Z",
+      "retroEndUtc": "2029-05-25T19:21Z",
+      "phases": [
+        {
+          "start": "2029-04-30",
+          "end": "2029-05-01",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-05-01",
+          "end": "2029-05-03",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-05-03",
+          "end": "2029-05-04",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-05-04",
+          "end": "2029-05-22",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-05-22",
+          "end": "2029-05-24",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-05-24",
+          "end": "2029-05-27",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-05-27",
+          "end": "2029-05-29",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2029-09-02",
+      "end": "2029-09-25",
+      "label": "Autumn 2029",
+      "calculated": true,
+      "retroStartUtc": "2029-09-02T12:18Z",
+      "retroEndUtc": "2029-09-25T02:01Z",
+      "phases": [
+        {
+          "start": "2029-08-31",
+          "end": "2029-09-01",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-09-01",
+          "end": "2029-09-03",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-09-03",
+          "end": "2029-09-04",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-09-04",
+          "end": "2029-09-22",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-09-22",
+          "end": "2029-09-24",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-09-24",
+          "end": "2029-09-27",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-09-27",
+          "end": "2029-09-29",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2029-12-22",
+      "end": "2030-01-11",
+      "label": "Winter 2029",
+      "calculated": true,
+      "retroStartUtc": "2029-12-22T05:50Z",
+      "retroEndUtc": "2030-01-11T05:45Z",
+      "phases": [
+        {
+          "start": "2029-12-20",
+          "end": "2029-12-21",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-12-21",
+          "end": "2029-12-23",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-12-23",
+          "end": "2029-12-24",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2029-12-24",
+          "end": "2030-01-08",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-01-08",
+          "end": "2030-01-10",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-01-10",
+          "end": "2030-01-13",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-01-13",
+          "end": "2030-01-15",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2030-04-13",
+      "end": "2030-05-06",
+      "label": "Winter-Spring 2030",
+      "calculated": true,
+      "retroStartUtc": "2030-04-13T02:34Z",
+      "retroEndUtc": "2030-05-06T20:15Z",
+      "phases": [
+        {
+          "start": "2030-04-11",
+          "end": "2030-04-12",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-04-12",
+          "end": "2030-04-14",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-04-14",
+          "end": "2030-04-15",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-04-15",
+          "end": "2030-05-03",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-05-03",
+          "end": "2030-05-05",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-05-05",
+          "end": "2030-05-08",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-05-08",
+          "end": "2030-05-10",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2030-08-16",
+      "end": "2030-09-08",
+      "label": "Summer 2030",
+      "calculated": true,
+      "retroStartUtc": "2030-08-16T01:21Z",
+      "retroEndUtc": "2030-09-08T09:27Z",
+      "phases": [
+        {
+          "start": "2030-08-14",
+          "end": "2030-08-15",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-08-15",
+          "end": "2030-08-17",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-08-17",
+          "end": "2030-08-18",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-08-18",
+          "end": "2030-09-05",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-09-05",
+          "end": "2030-09-07",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-09-07",
+          "end": "2030-09-10",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-09-10",
+          "end": "2030-09-12",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2030-12-06",
+      "end": "2030-12-26",
+      "label": "Winter 2030",
+      "calculated": true,
+      "retroStartUtc": "2030-12-06T02:47Z",
+      "retroEndUtc": "2030-12-25T21:15Z",
+      "phases": [
+        {
+          "start": "2030-12-04",
+          "end": "2030-12-05",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-12-05",
+          "end": "2030-12-07",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-12-07",
+          "end": "2030-12-08",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-12-08",
+          "end": "2030-12-23",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-12-23",
+          "end": "2030-12-25",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-12-25",
+          "end": "2030-12-28",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2030-12-28",
+          "end": "2030-12-30",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2031-03-26",
+      "end": "2031-04-18",
+      "label": "Winter-Spring 2031",
+      "calculated": true,
+      "retroStartUtc": "2031-03-26T00:44Z",
+      "retroEndUtc": "2031-04-18T11:15Z",
+      "phases": [
+        {
+          "start": "2031-03-24",
+          "end": "2031-03-25",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-03-25",
+          "end": "2031-03-27",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-03-27",
+          "end": "2031-03-28",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-03-28",
+          "end": "2031-04-15",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-04-15",
+          "end": "2031-04-17",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-04-17",
+          "end": "2031-04-20",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-04-20",
+          "end": "2031-04-22",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2031-07-29",
+      "end": "2031-08-22",
+      "label": "Summer 2031",
+      "calculated": true,
+      "retroStartUtc": "2031-07-29T06:47Z",
+      "retroEndUtc": "2031-08-22T04:28Z",
+      "phases": [
+        {
+          "start": "2031-07-27",
+          "end": "2031-07-28",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-07-28",
+          "end": "2031-07-30",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-07-30",
+          "end": "2031-07-31",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-07-31",
+          "end": "2031-08-19",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-08-19",
+          "end": "2031-08-21",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-08-21",
+          "end": "2031-08-24",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-08-24",
+          "end": "2031-08-26",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2031-11-20",
+      "end": "2031-12-09",
+      "label": "Autumn 2031",
+      "calculated": true,
+      "retroStartUtc": "2031-11-19T21:15Z",
+      "retroEndUtc": "2031-12-09T16:23Z",
+      "phases": [
+        {
+          "start": "2031-11-18",
+          "end": "2031-11-19",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-11-19",
+          "end": "2031-11-21",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-11-21",
+          "end": "2031-11-22",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-11-22",
+          "end": "2031-12-06",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-12-06",
+          "end": "2031-12-08",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-12-08",
+          "end": "2031-12-11",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2031-12-11",
+          "end": "2031-12-13",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2032-03-07",
+      "end": "2032-03-30",
+      "label": "Winter-Spring 2032",
+      "calculated": true,
+      "retroStartUtc": "2032-03-07T16:21Z",
+      "retroEndUtc": "2032-03-30T14:29Z",
+      "phases": [
+        {
+          "start": "2032-03-05",
+          "end": "2032-03-06",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-03-06",
+          "end": "2032-03-08",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-03-08",
+          "end": "2032-03-09",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-03-09",
+          "end": "2032-03-27",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-03-27",
+          "end": "2032-03-29",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-03-29",
+          "end": "2032-04-01",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-04-01",
+          "end": "2032-04-03",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2032-07-10",
+      "end": "2032-08-03",
+      "label": "Summer 2032",
+      "calculated": true,
+      "retroStartUtc": "2032-07-10T02:33Z",
+      "retroEndUtc": "2032-08-03T06:52Z",
+      "phases": [
+        {
+          "start": "2032-07-08",
+          "end": "2032-07-09",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-07-09",
+          "end": "2032-07-11",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-07-11",
+          "end": "2032-07-12",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-07-12",
+          "end": "2032-07-31",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-07-31",
+          "end": "2032-08-02",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-08-02",
+          "end": "2032-08-05",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-08-05",
+          "end": "2032-08-07",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2032-11-02",
+      "end": "2032-11-22",
+      "label": "Autumn 2032",
+      "calculated": true,
+      "retroStartUtc": "2032-11-02T11:56Z",
+      "retroEndUtc": "2032-11-22T14:01Z",
+      "phases": [
+        {
+          "start": "2032-10-31",
+          "end": "2032-11-01",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-11-01",
+          "end": "2032-11-03",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-11-03",
+          "end": "2032-11-04",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-11-04",
+          "end": "2032-11-19",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-11-19",
+          "end": "2032-11-21",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-11-21",
+          "end": "2032-11-24",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2032-11-24",
+          "end": "2032-11-26",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2033-02-19",
+      "end": "2033-03-13",
+      "label": "Winter-Spring 2033",
+      "calculated": true,
+      "retroStartUtc": "2033-02-18T21:20Z",
+      "retroEndUtc": "2033-03-13T02:57Z",
+      "phases": [
+        {
+          "start": "2033-02-17",
+          "end": "2033-02-18",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-02-18",
+          "end": "2033-02-20",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-02-20",
+          "end": "2033-02-21",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-02-21",
+          "end": "2033-03-10",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-03-10",
+          "end": "2033-03-12",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-03-12",
+          "end": "2033-03-15",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-03-15",
+          "end": "2033-03-17",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2033-06-21",
+      "end": "2033-07-15",
+      "label": "Summer 2033",
+      "calculated": true,
+      "retroStartUtc": "2033-06-21T10:05Z",
+      "retroEndUtc": "2033-07-15T14:19Z",
+      "phases": [
+        {
+          "start": "2033-06-19",
+          "end": "2033-06-20",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-06-20",
+          "end": "2033-06-22",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-06-22",
+          "end": "2033-06-23",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-06-23",
+          "end": "2033-07-12",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-07-12",
+          "end": "2033-07-14",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-07-14",
+          "end": "2033-07-17",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-07-17",
+          "end": "2033-07-19",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2033-10-17",
+      "end": "2033-11-06",
+      "label": "Autumn 2033",
+      "calculated": true,
+      "retroStartUtc": "2033-10-16T22:03Z",
+      "retroEndUtc": "2033-11-06T12:39Z",
+      "phases": [
+        {
+          "start": "2033-10-15",
+          "end": "2033-10-16",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-10-16",
+          "end": "2033-10-18",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-10-18",
+          "end": "2033-10-19",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-10-19",
+          "end": "2033-11-03",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-11-03",
+          "end": "2033-11-05",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-11-05",
+          "end": "2033-11-08",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2033-11-08",
+          "end": "2033-11-10",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2034-02-02",
+      "end": "2034-02-24",
+      "label": "Winter-Spring 2034",
+      "calculated": true,
+      "retroStartUtc": "2034-02-02T11:21Z",
+      "retroEndUtc": "2034-02-23T22:54Z",
+      "phases": [
+        {
+          "start": "2034-01-31",
+          "end": "2034-02-01",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-02-01",
+          "end": "2034-02-03",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-02-03",
+          "end": "2034-02-04",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-02-04",
+          "end": "2034-02-21",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-02-21",
+          "end": "2034-02-23",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-02-23",
+          "end": "2034-02-26",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-02-26",
+          "end": "2034-02-28",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2034-06-02",
+      "end": "2034-06-26",
+      "label": "Summer 2034",
+      "calculated": true,
+      "retroStartUtc": "2034-06-02T05:23Z",
+      "retroEndUtc": "2034-06-26T05:23Z",
+      "phases": [
+        {
+          "start": "2034-05-31",
+          "end": "2034-06-01",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-06-01",
+          "end": "2034-06-03",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-06-03",
+          "end": "2034-06-04",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-06-04",
+          "end": "2034-06-23",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-06-23",
+          "end": "2034-06-25",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-06-25",
+          "end": "2034-06-28",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-06-28",
+          "end": "2034-06-30",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2034-09-30",
+      "end": "2034-10-21",
+      "label": "Autumn 2034",
+      "calculated": true,
+      "retroStartUtc": "2034-09-30T03:00Z",
+      "retroEndUtc": "2034-10-21T10:22Z",
+      "phases": [
+        {
+          "start": "2034-09-28",
+          "end": "2034-09-29",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-09-29",
+          "end": "2034-10-01",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-10-01",
+          "end": "2034-10-02",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-10-02",
+          "end": "2034-10-18",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-10-18",
+          "end": "2034-10-20",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-10-20",
+          "end": "2034-10-23",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2034-10-23",
+          "end": "2034-10-25",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2035-01-17",
+      "end": "2035-02-07",
+      "label": "Winter-Spring 2035",
+      "calculated": true,
+      "retroStartUtc": "2035-01-17T06:44Z",
+      "retroEndUtc": "2035-02-07T01:25Z",
+      "phases": [
+        {
+          "start": "2035-01-15",
+          "end": "2035-01-16",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-01-16",
+          "end": "2035-01-18",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-01-18",
+          "end": "2035-01-19",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-01-19",
+          "end": "2035-02-04",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-02-04",
+          "end": "2035-02-06",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-02-06",
+          "end": "2035-02-09",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-02-09",
+          "end": "2035-02-11",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2035-05-13",
+      "end": "2035-06-06",
+      "label": "Summer 2035",
+      "calculated": true,
+      "retroStartUtc": "2035-05-13T18:40Z",
+      "retroEndUtc": "2035-06-06T14:53Z",
+      "phases": [
+        {
+          "start": "2035-05-11",
+          "end": "2035-05-12",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-05-12",
+          "end": "2035-05-14",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-05-14",
+          "end": "2035-05-15",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-05-15",
+          "end": "2035-06-03",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-06-03",
+          "end": "2035-06-05",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-06-05",
+          "end": "2035-06-08",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-06-08",
+          "end": "2035-06-10",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
+    },
+    {
+      "start": "2035-09-13",
+      "end": "2035-10-05",
+      "label": "Autumn 2035",
+      "calculated": true,
+      "retroStartUtc": "2035-09-13T02:28Z",
+      "retroEndUtc": "2035-10-05T04:53Z",
+      "phases": [
+        {
+          "start": "2035-09-11",
+          "end": "2035-09-12",
+          "phaseNumber": 1,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-09-12",
+          "end": "2035-09-14",
+          "phaseNumber": 2,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-09-14",
+          "end": "2035-09-15",
+          "phaseNumber": 3,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-09-15",
+          "end": "2035-10-02",
+          "phaseNumber": 4,
+          "damageLevel": "WEAK",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-10-02",
+          "end": "2035-10-04",
+          "phaseNumber": 5,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-10-04",
+          "end": "2035-10-07",
+          "phaseNumber": 6,
+          "damageLevel": "STRONG",
+          "note": "station-anchored model"
+        },
+        {
+          "start": "2035-10-07",
+          "end": "2035-10-09",
+          "phaseNumber": 7,
+          "damageLevel": "MEDIUM",
+          "note": "station-anchored model"
+        }
+      ]
     }
   ]
 }
